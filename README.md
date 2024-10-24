@@ -39,6 +39,6 @@ Este repositório contém uma coleção de desafios de programação desenvolvid
 - Classes e objetos
 - Boas práticas de programação
 
-- ### Keep Improving
+### Keep Improving
 - dev by: vFavretto
   
