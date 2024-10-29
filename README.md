@@ -1,9 +1,9 @@
-# CodeChallenges-DIO
+# DIO REPO
 
-# 🎮 Desafios de Lógica de Programação - DIO
+# 🎮 Desafios de Programação - DIO
 
 ## 📜 Descrição
-Este repositório contém uma coleção de desafios de programação desenvolvidos durante os cursos da Digital Innovation One (DIO). Cada desafio explora diferentes conceitos de lógica de programação usando JavaScript.
+Este repositório contém uma coleção de desafios de programação desenvolvidos durante os cursos da Digital Innovation One (DIO). Cada desafio explora diferentes conceitos de programação.
 
 ## 🎯 Desafios
 
@@ -25,12 +25,16 @@ Este repositório contém uma coleção de desafios de programação desenvolvid
 - **Classes de Heróis:** Mago, Guerreiro, Monge e Ninja
 - **Funcionalidade:** Permite criar heróis e exibir seus ataques específicos
 
+### 4. Criando um Personal Trainer IA com Boas Práticas de Prompt Engineer
+- **Arquivo:** `template_for_IA_personal_training.md`
+- **Objetivo:** Criar um prompt de IA para um sistema de Personal Trainer utilizando linguagem Markdown e tecnicas de engenharia de prompt
+- **Funcionalidade:** Ter um modelo de prompt completo para IAs decidirem treinos de academia com base nas informações concedidas
+
 ## 💻 Tecnologias Utilizadas
-- JavaScript
+- JavaScript, HTML e CSS
 - Programação Orientada a Objetos
-- Estruturas Condicionais
-- Arrays e Objetos
 - Funções e Métodos
+- Engenharia de Prompt
 
 ## 🎓 Aprendizados
 - Lógica de programação
@@ -38,6 +42,7 @@ Este repositório contém uma coleção de desafios de programação desenvolvid
 - Manipulação de arrays e objetos
 - Classes e objetos
 - Boas práticas de programação
+- Prompt Engineer
 
 ### Keep Improving
 - dev by: vFavretto
